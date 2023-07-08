@@ -1,0 +1,12 @@
+/* common shard style*/
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* nav related style */
+nav {
+
+
+    display: flex;
+}
